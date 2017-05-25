@@ -34,3 +34,7 @@ console.log('packt' === 'packt'); //true
 var person1 = {name:'John'};
 var person2 = {name:'John'};
 console.log(person1 === person2); //false, different objects
+
+
+//=== - type checks
+//== - does not type check
