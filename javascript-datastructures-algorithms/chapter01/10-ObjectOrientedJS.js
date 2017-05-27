@@ -1,3 +1,8 @@
+// an Object is an instance of a class. A class defines charactristics of an object.
+// create class taht represent objects.
+// book - title, pages, isbn
+// class - newbook
+
 /* Object example 1 */
 
 var obj = new Object();
