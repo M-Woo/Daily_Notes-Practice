@@ -1,10 +1,17 @@
 //******* EcmaScript 6: let and const keywords
 // EcmaScript 6 Constants
+//constant cannot change through re-assignment, cannot be redeclared
+//The const declaration creates a read-only reference to a value
+
 const PI = 3.141593;
 //PI = 3.0; //throws error
 console.log(PI);
 
 //******* EcmaScript 6: let is the new var
+//let allows you to declare variables that are limited 
+//in scope to the block, statement, 
+//or expression on which it is used
+
 var framework = 'Angular';
 var framework = 'React';
 console.log(framework);

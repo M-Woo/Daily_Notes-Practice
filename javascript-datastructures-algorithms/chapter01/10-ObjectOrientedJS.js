@@ -42,9 +42,12 @@ book.title = 'new title'; //update the value of the book title
 
 console.log(book.title); //outputs the updated value
 
+//class can also contain functions
+// whenever possible, w should use prototype method
 Book.prototype.printTitle = function(){
     console.log(this.title);
 };
+
 
 book.printTitle();
 
