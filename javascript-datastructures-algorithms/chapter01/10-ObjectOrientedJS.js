@@ -21,6 +21,8 @@ obj = {
 
 /* Object example 3 */
 
+//class constructor!!! 
+
 function Book(title, pages, isbn){
     this.title = title;
     this.pages = pages;
@@ -30,6 +32,8 @@ function Book(title, pages, isbn){
     }
 }
 
+//instantiate the class
+// create new object on class
 var book = new Book('title', 'pag',  'isbn');
 
 console.log(book.title); //outputs the book title
