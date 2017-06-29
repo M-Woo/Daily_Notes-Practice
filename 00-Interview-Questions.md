@@ -8,3 +8,6 @@ What does doctype do?
 
 Whats the difference between standards mode and quirks mode?
 - "Quirks" mode is used for legacy browsers, while "standards" mode follows the W3C specification. 
+
+What are data- attributes good for? 
+- Store custom data in Dom node
