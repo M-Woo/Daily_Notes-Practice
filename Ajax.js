@@ -7,7 +7,6 @@
 // A browser built-in XMLHttpRequest object (to request data from a web server)
 // JavaScript and HTML DOM (to display or use the data)
 
-
 //HTML
 <!DOCTYPE html>
 <html>

@@ -1,5 +1,6 @@
 //JavaScript arrays
 
+
 array = [a,b,c,d,e]
 
 array[1]                 //=> b
