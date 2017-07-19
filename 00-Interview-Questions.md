@@ -26,3 +26,15 @@ Explain some of the pros and cons for CSS animations versus JavaScript animation
 
 -JavaScript animations
     -Opposite to CSS animations
+
+
+What does CORS stand for and what issue does it address?
+
+ -CORS stands for cross-origin resource sharing. There could be situation where some resources should be allowed from sources having different origin. CORS is a standard to enable cross-site HTTP requests for:
+
+ -AJAX API call
+ -Web Fonts
+ -WebGL textures
+ -Image/video frames drawn to a canvas using drawImage
+ -Stylesheets
+ -Scripts
