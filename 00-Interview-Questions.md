@@ -17,6 +17,10 @@ Can you describe the difference between progressive enhancement and graceful deg
 - Progressive enhancement is a way to implement a web page where basic features, which are supported by most environments, are implemented first and then progressively enhance them for advanced environments.
 - On the other hand, graceful degradation is an opposite. The advanced features are freely implemented at any time, and additional works are done to support the environment where the features don't work well.
 
+Why is it generally a good idea to position CSS <link>s between <head></head> and JS <script>s just before </body>? Do you know any exceptions?/
+
+- CSS declared before <body> starts, your styles has actually loaded already
+- run javascript just before the </body> so that it is ran after all the elements have been rendered./
 
 Explain some of the pros and cons for CSS animations versus JavaScript animations.
 
