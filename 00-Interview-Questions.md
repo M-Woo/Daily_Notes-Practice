@@ -32,6 +32,11 @@ Explain some of the pros and cons for CSS animations versus JavaScript animation
     -Opposite to CSS animations
 
 
+What is the difference between classes and IDs in CSS?
+
+- Id have priority 
+
+
 What does CORS stand for and what issue does it address?
 
  -CORS stands for cross-origin resource sharing. There could be situation where some resources should be allowed from sources having different origin. CORS is a standard to enable cross-site HTTP requests for:
