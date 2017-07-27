@@ -33,9 +33,11 @@ Explain some of the pros and cons for CSS animations versus JavaScript animation
 
 
 What is the difference between classes and IDs in CSS?
-
 - Id have priority 
 
+Whats the difference between "resetting" and "normalizing" CSS? Which would you choose, and why?
+- Resetting - removing all styling from every element. all elements will have the same font-size margin etc. Eric Meyers Reset.
+- normalizing - making elements render consistently across all browsers. provides better cross-browser consistency in default styling of html elements. html5 alternative to css resetting
 
 What does CORS stand for and what issue does it address?
 
