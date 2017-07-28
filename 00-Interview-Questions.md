@@ -39,6 +39,9 @@ Whats the difference between "resetting" and "normalizing" CSS? Which would you 
 - Resetting - removing all styling from every element. all elements will have the same font-size margin etc. Eric Meyers Reset.
 - normalizing - making elements render consistently across all browsers. provides better cross-browser consistency in default styling of html elements. html5 alternative to css resetting
 
+Describe Floats and how they work.
+- Specifies whether an element should be placed along left or right side of container
+
 What does CORS stand for and what issue does it address?
 
  -CORS stands for cross-origin resource sharing. There could be situation where some resources should be allowed from sources having different origin. CORS is a standard to enable cross-site HTTP requests for:
