@@ -42,6 +42,9 @@ Whats the difference between "resetting" and "normalizing" CSS? Which would you 
 Describe Floats and how they work.
 - Specifies whether an element should be placed along left or right side of container
 
+Describe z-index and how stacking context is formed.
+- Specifies the stack order of an element. Greater stack order in front.
+
 What does CORS stand for and what issue does it address?
 
  -CORS stands for cross-origin resource sharing. There could be situation where some resources should be allowed from sources having different origin. CORS is a standard to enable cross-site HTTP requests for:
