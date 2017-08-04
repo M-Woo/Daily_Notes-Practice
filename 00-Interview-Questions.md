@@ -50,8 +50,8 @@ Describe z-index and how stacking context is formed.
 Have you ever used a grid system, and if so, what do you prefer?
 -Bootstrap - container, rows, and columns placed within rows
 
-
-
+Have you used or implemented media queries or mobile specific layouts/CSS?
+-Optional media type limit the stylesheets scope by using  media features (height width)
 
 What does CORS stand for and what issue does it address?
 
