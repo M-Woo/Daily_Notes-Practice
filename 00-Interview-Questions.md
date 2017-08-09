@@ -57,6 +57,11 @@ Have you used or implemented media queries or mobile specific layouts/CSS?
 Explain event delegation
 -Using Event Propagation(bubbling) to handle higher level events in the DOM
 
+Why is it called a Ternary expression, what does the word "Ternary" indicate?
+- ?:
+
+==============================
+
 What does CORS stand for and what issue does it address?
 
  -CORS stands for cross-origin resource sharing. There could be situation where some resources should be allowed from sources having different origin. CORS is a standard to enable cross-site HTTP requests for:
