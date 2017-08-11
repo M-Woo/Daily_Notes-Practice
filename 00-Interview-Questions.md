@@ -60,6 +60,8 @@ Explain event delegation
 Why is it called a Ternary expression, what does the word "Ternary" indicate?
 - ?:
 
+Explain how this works in JavaScript
+
 ==============================
 
 What does CORS stand for and what issue does it address?
