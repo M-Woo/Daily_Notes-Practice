@@ -9,6 +9,14 @@ What is a recent technical challenge you experienced and how did you solve it?
 What UI, Security, Performance, SEO, Maintainability or Technology considerations do you make while building a web application or site?
 
 Talk about your preferred development environment.
+
+Which version control systems are you familiar with?
+
+Can you describe your workflow when you create a web page?
+
+If you have 5 different stylesheets, how would you best integrate them into the site?
+
+
 ## HTML =========================
 
 What does doctype do?
