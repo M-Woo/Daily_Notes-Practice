@@ -16,6 +16,14 @@ Can you describe your workflow when you create a web page?
 
 If you have 5 different stylesheets, how would you best integrate them into the site?
 
+Can you describe the difference between progressive enhancement and graceful degradation?
+
+Describe how you would create a simple slideshow page, without any frameworks (HTML/CSS/JS only).
+
+If you could master one technology this year, what would it be?
+
+Explain the importance of standards and standards bodies.
+
 
 ## HTML =========================
 
