@@ -1,3 +1,6 @@
+LIFO - Last in first out
+FILO - first in last out
+
 ## General Questions ================
 
 What did you learn yesterday/this week?
