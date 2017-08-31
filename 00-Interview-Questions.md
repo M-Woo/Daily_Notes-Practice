@@ -1,6 +1,12 @@
 LIFO - Last in first out
 FILO - first in last out
 
+If Else - Ternary Operator
+
+Compile vs Transpile
+
+Method - Action that can b performed on objects
+
 ## General Questions ================
 
 What did you learn yesterday/this week?
