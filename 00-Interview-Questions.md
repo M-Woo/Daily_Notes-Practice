@@ -7,6 +7,8 @@ Compile vs Transpile
 
 Method - Action that can b performed on objects
 
+RESTful - verb plus URL - GET PUT POST DELETE
+
 ## General Questions ================
 
 What did you learn yesterday/this week?
