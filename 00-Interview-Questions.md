@@ -9,6 +9,7 @@ Method - Action that can b performed on objects
 
 RESTful - verb plus URL - GET PUT POST DELETE
 
+
 ## General Questions ================
 
 What did you learn yesterday/this week?
@@ -87,6 +88,9 @@ Have you ever used a grid system, and if so, what do you prefer?
 
 Have you used or implemented media queries or mobile specific layouts/CSS?
 -Optional media type limit the stylesheets scope by using  media features (height width)
+
+How do you optimize your webpages for print?
+-
 
 =============JS===============
 Explain event delegation
