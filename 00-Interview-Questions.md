@@ -101,6 +101,15 @@ Why is it called a Ternary expression, what does the word "Ternary" indicate?
 
 Explain how this works in JavaScript
 
+Explain how prototypal inheritance works
+
+Whats the difference between a variable that is: null, undefined or undeclared?
+
+How would you go about checking for any of these states?
+
+What is a closure, and how/why would you use one?
+
+Whats a typical use case for anonymous functions?
 ==============================
 
 What does CORS stand for and what issue does it address?
