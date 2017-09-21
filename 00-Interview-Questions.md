@@ -110,6 +110,22 @@ How would you go about checking for any of these states?
 What is a closure, and how/why would you use one?
 
 Whats a typical use case for anonymous functions?
+
+Difference between: function Person(){}, var person = Person(), and var person = new Person()?
+
+Whats the difference between .call and .apply?
+
+Explain Function.prototype.bind.
+
+Whats the difference between feature detection, feature inference, and using the User Agent string?
+
+Explain AJAX in as much detail as possible.
+
+Have you ever used JavaScript templating?
+
+If so, what libraries have you used?
+
+Explain "hoisting".
 ==============================
 
 What does CORS stand for and what issue does it address?
